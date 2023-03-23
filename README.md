@@ -1,1 +1,3 @@
 # Magazine
+
+Assignment on freecodecamp
